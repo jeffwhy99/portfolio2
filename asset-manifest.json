@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.daa09f77.chunk.css",
-    "main.js": "/portfolio/static/js/main.c99e5d9a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c99e5d9a.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d1a5b3b7.chunk.css",
+    "main.js": "/portfolio/static/js/main.85415d70.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.85415d70.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b449097c.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b449097c.js.map",
-    "static/js/2.03486c3d.chunk.js": "/portfolio/static/js/2.03486c3d.chunk.js",
-    "static/js/2.03486c3d.chunk.js.map": "/portfolio/static/js/2.03486c3d.chunk.js.map",
+    "static/js/2.e64d6aae.chunk.js": "/portfolio/static/js/2.e64d6aae.chunk.js",
+    "static/js/2.e64d6aae.chunk.js.map": "/portfolio/static/js/2.e64d6aae.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.0a4d4fdb72800bed3aed686ed4aa6a2c.js": "/portfolio/precache-manifest.0a4d4fdb72800bed3aed686ed4aa6a2c.js",
+    "precache-manifest.3eff3dcb11e6b25d2263a2ef39cfc5c1.js": "/portfolio/precache-manifest.3eff3dcb11e6b25d2263a2ef39cfc5c1.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.daa09f77.chunk.css.map": "/portfolio/static/css/main.daa09f77.chunk.css.map",
-    "static/js/2.03486c3d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.03486c3d.chunk.js.LICENSE.txt",
+    "static/css/main.d1a5b3b7.chunk.css.map": "/portfolio/static/css/main.d1a5b3b7.chunk.css.map",
+    "static/js/2.e64d6aae.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e64d6aae.chunk.js.LICENSE.txt",
+    "static/media/foodie_account.png": "/portfolio/static/media/foodie_account.94ad5c5c.png",
+    "static/media/foodie_community.png": "/portfolio/static/media/foodie_community.0eebdf4f.png",
+    "static/media/foodie_persona.png": "/portfolio/static/media/foodie_persona.97c471d4.png",
+    "static/media/foodie_proto.png": "/portfolio/static/media/foodie_proto.85e5e8da.png",
+    "static/media/foodie_recipe.png": "/portfolio/static/media/foodie_recipe.e449efcb.png",
+    "static/media/foodie_survey.png": "/portfolio/static/media/foodie_survey.8f237dd9.png",
+    "static/media/form_design.jpg": "/portfolio/static/media/form_design.29719372.jpg",
     "static/media/mark_novo_ss.png": "/portfolio/static/media/mark_novo_ss.425dca41.png",
     "static/media/sapporo_xmas.jpg": "/portfolio/static/media/sapporo_xmas.ded4d7a1.jpg",
     "static/media/sapporo_xmas_tn.jpg": "/portfolio/static/media/sapporo_xmas_tn.9aa76543.jpg",
@@ -20,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b449097c.js",
-    "static/js/2.03486c3d.chunk.js",
-    "static/css/main.daa09f77.chunk.css",
-    "static/js/main.c99e5d9a.chunk.js"
+    "static/js/2.e64d6aae.chunk.js",
+    "static/css/main.d1a5b3b7.chunk.css",
+    "static/js/main.85415d70.chunk.js"
   ]
 }
