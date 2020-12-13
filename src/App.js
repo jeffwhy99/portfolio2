@@ -22,8 +22,8 @@ function App() {
           </nav>
           <Switch>
             <Redirect exact path="/" to="/about" />
-            <Redirect exact path="/portfolio" to="/portfolio/about" />
-            
+            <Redirect exact path="/portfolio/" to="/portfolio/about" />
+
             <Route path="/about" component={About} />
             <Route path="/portfolio/about" component={About} />
 
