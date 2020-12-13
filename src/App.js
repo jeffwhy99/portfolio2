@@ -22,10 +22,20 @@ function App() {
           </nav>
           <Switch>
             <Redirect exact path="/" to="/about" />
+            <Redirect exact path="/portfolio" to="/portfolio/about" />
+            
             <Route path="/about" component={About} />
+            <Route path="/portfolio/about" component={About} />
+
             <Route exact path="/work" component={Work} />
+            <Route exact path="/portfolio/work" component={Work} />
+
             <Route path="/work/foodie" component={ProjFoodie} />
+            <Route path="/portfolio/work/foodie" component={ProjFoodie} />
+
             <Route path="/work/this+website" component={ProjMyWebsite} />
+            <Route path="/portfolio/work/this+website" component={ProjMyWebsite} />
+
           </Switch>
         </ScrollToTop>
       </BrowserRouter>
