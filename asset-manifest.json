@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.daa09f77.chunk.css",
+    "main.js": "/portfolio/static/js/main.68ddda45.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.68ddda45.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b449097c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b449097c.js.map",
+    "static/js/2.851014bc.chunk.js": "/portfolio/static/js/2.851014bc.chunk.js",
+    "static/js/2.851014bc.chunk.js.map": "/portfolio/static/js/2.851014bc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.bd6250a5736fc898ab8d9c15a1c45739.js": "/portfolio/precache-manifest.bd6250a5736fc898ab8d9c15a1c45739.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.daa09f77.chunk.css.map": "/portfolio/static/css/main.daa09f77.chunk.css.map",
+    "static/js/2.851014bc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.851014bc.chunk.js.LICENSE.txt",
+    "static/media/mark_novo_ss.png": "/portfolio/static/media/mark_novo_ss.425dca41.png",
+    "static/media/sapporo_xmas.jpg": "/portfolio/static/media/sapporo_xmas.ded4d7a1.jpg",
+    "static/media/sapporo_xmas_tn.jpg": "/portfolio/static/media/sapporo_xmas_tn.9aa76543.jpg",
+    "static/media/thumbnail_template.jpg": "/portfolio/static/media/thumbnail_template.14349c9b.jpg",
+    "static/media/work_ss.png": "/portfolio/static/media/work_ss.3c692e28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b449097c.js",
+    "static/js/2.851014bc.chunk.js",
+    "static/css/main.daa09f77.chunk.css",
+    "static/js/main.68ddda45.chunk.js"
+  ]
+}
