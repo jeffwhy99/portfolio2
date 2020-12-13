@@ -6,15 +6,15 @@ function ProjMyWebsite(props) {
     return (
         <div className="project-body">
             {/* <img src={Thumbnail} alt="a photo of me" className="project-photo" /> */}
-            <h1 className="project-title">This Website</h1>
+            <h1 className="project-title">This Section is Incomplete</h1>
             <p className="project-article">
-                To find a job in UX design, I needed a portfolio so I spent the summer of 2020 making my website. I chose not to use a website builder like Squarespace because I did not want to limit myself with their existing templates; I wanted my website to be unique. Furthermore, I wanted to review the skills I learned in my client-side and server-side development classes; this was a great opportunity for me to practice the process of designing, coding, and deploying a website.
+                To find a job in UX design, I needed a portfolio so I spent the summer of 2020 making my website. I chose not to use a website builder like Squarespace because I did not want to limit myself with their existing templates; I wanted my website to be unique. Furthermore, I wanted to review the skills I learned in my client-side development class; this was a great opportunity for me to practice the process of designing, coding, and deploying a website.
             </p>
             <br/>
             <img src={NovoSS} alt="Mark Novo website template" className="project-photo" />
             <p className="project-article">
             <br/>
-                First, I took a look at existing portfolios and Squarespace templates for inspiration. I liked the aesthetic of the Mark Novo template; however, in terms of usability, there are a few places where it could be improved. First, the title for each project only appears when hovered over. Because it is impossible to hover on mobile and the mobile version looks the same, titles do not appear at all. Second, an article I read recommended only displaying your top three projects on your portfolio so that employers would have the patience to look through them. With only three projects, it would look silly to display them in two columns.
+                First, I took a look at existing portfolios and Squarespace templates for inspiration. I liked the aesthetic of the Mark Novo template; however, in terms of usability, there are a few places where it could be improved. First, the title for each project only appears when hovered over. Because the mobile version is identical and it is impossible to hover on mobile, users are unable to view the titles at all. Second, I was recommendeded to limit the site with my three best projects so that employers would have the patience to look through all of them. With only three projects, it would look silly to display them in two columns.
             </p>
             <br/>
             {/* <img src={WorkSS} alt="prototype of the 'Work' page" className="project-photo" /> */}

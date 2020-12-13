@@ -14,7 +14,8 @@ function Work(props) {
                         <Card name="Securate" desc="I designed an app that determines the how intrusive other apps are." photo={Thumbnail} />
                     </Link> */}
                     <Link to="/work/this+website">
-                        <Card name="This Website" desc="This explains the design and development process of this website (incomplete)." photo={Portrait} />
+                        <Card name="This Website" desc="This section is incomplete." photo={Portrait} />
+                        {/* This explains the design and development process of this website. */}
                     </Link>
             </div>
         )
