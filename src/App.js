@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter, Route, Link, Switch, Redirect } from 'react-router-dom';
+import { Route, Link, Switch, Redirect, HashRouter } from 'react-router-dom';
 import About from './About.js'
 import Work from './Work.js'
 import ScrollToTop from './ScrollToTop.js'
@@ -11,7 +11,7 @@ function App() {
   // TODO: Fix link iteraction (active link should be white)
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop>
           <nav>
             <Link to="/about" id="logo">Jeffrey Wang</Link>
@@ -22,23 +22,13 @@ function App() {
           </nav>
           <Switch>
             <Redirect exact path="/" to="/about" />
-            <Redirect exact path="/portfolio/" to="/portfolio/about" />
-
             <Route path="/about" component={About} />
-            <Route path="/portfolio/about" component={About} />
-
             <Route exact path="/work" component={Work} />
-            <Route exact path="/portfolio/work" component={Work} />
-
             <Route path="/work/foodie" component={ProjFoodie} />
-            <Route path="/portfolio/work/foodie" component={ProjFoodie} />
-
             <Route path="/work/this+website" component={ProjMyWebsite} />
-            <Route path="/portfolio/work/this+website" component={ProjMyWebsite} />
-
           </Switch>
         </ScrollToTop>
-      </BrowserRouter>
+      </HashRouter>
       <footer>
         <h1 id="contact">Contact</h1>
         <br />
