@@ -4,7 +4,8 @@ import { Route, Link, Switch, Redirect, HashRouter } from 'react-router-dom';
 import About from './About.js'
 import Work from './Work.js'
 import ScrollToTop from './ScrollToTop.js'
-import ProjMyWebsite from './ProjMyWebsite';
+import ProjMyWebsite from './ProjMyWebsite'
+import ProjSecurate from './ProjSecurate'
 import ProjFoodie from './ProjFoodie'
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <Route path="/about" component={About} />
             <Route exact path="/work" component={Work} />
             <Route path="/work/foodie" component={ProjFoodie} />
+            <Route path="/work/securate" component={ProjSecurate} />
             <Route path="/work/this+website" component={ProjMyWebsite} />
           </Switch>
         </ScrollToTop>
