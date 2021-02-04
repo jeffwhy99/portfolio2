@@ -1,6 +1,5 @@
 import React from "react"
 import SushiPhoto from "./photos/sushi.jpg"
-import WelcomePhoto from "./photos/Survey/survey_welcome.png"
 import HoursPhoto from "./photos/foodie_research/hours_daily.png"
 import KnownPhoto from "./photos/foodie_research/features_known.png"
 import SortPhoto from "./photos/foodie_research/foodie_card_sort.png"
