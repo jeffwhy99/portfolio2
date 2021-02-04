@@ -32,9 +32,10 @@ function App() {
         </ScrollToTop>
       </HashRouter>
       <footer>
-        <h1 id="contact">Contact</h1>
+        <p id="contact">Contact</p>
         <br />
         <a className="contact-info" href="https://www.linkedin.com/in/jeffrey-wang-327b0915b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <br />
         <a className="contact-info" href="mailto:jeffwhy99@gmail.com">Mail</a>
       </footer>
     </div>
