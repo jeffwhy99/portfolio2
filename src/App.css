@@ -47,12 +47,12 @@ p {
 a:link, a:visited {
   text-decoration: none;
   color: #ffffff;
-  opacity: 50%;
+  opacity: .5;
 }
 
 a:hover {
   color: #ffffff;
-  opacity: 100%;
+  opacity: 1;
 }
 
 nav {
@@ -70,7 +70,6 @@ nav {
   text-transform: uppercase;
   color: #ffffff;
   margin-left: 2%;
-  opacity: 100%;
 }
 
 .nav-row {
@@ -148,7 +147,7 @@ work
   margin-top: 2%;
   margin-bottom: 2%;
   /* background-color: #000000; */
-  opacity: 50%;
+  opacity: .5;
 }
 
 .card-col1 {
@@ -177,7 +176,7 @@ work
 }
 
 .card-row:hover {
-  opacity: 100%;
+  opacity: 1;
   /* background-color:#000000; */
   border-radius: 15px;
 }
