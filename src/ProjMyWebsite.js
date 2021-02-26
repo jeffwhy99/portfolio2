@@ -16,7 +16,7 @@ function ProjMyWebsite(props) {
             <img src={BluePic} alt="" className="proj-photo" />
             <h1 className="title1">Portfolio</h1>
             <p className="larticle">
-                This is a work in progress. To find a design job, I needed a portfolio, so I spent the summer of 2020 making this website. 
+                This is a work in progress. To find a design job, I needed a portfolio, so I spent the summer of 2020 making this website.
             </p>
             <br />
             <p className="article">
