@@ -150,7 +150,7 @@ function ProjFoodie(props) {
             <h1 className="title1">Design</h1>
             <img src={ProtoPhoto} alt="high fidelity prototype I created for Foodie" className="proj-photo" />
             <p className="article">
-                To be continued . . .
+                To be continued . . . fuck Github.
             {/* For our wireframes, I had the opportunity to work on the home page. Although we were only required to complete wireframes, I upgraded my part into a high-fidelity prototype with Figma so I could show it off here. */}
             </p>
             {/* <p className="article">
