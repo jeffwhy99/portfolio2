@@ -3,7 +3,7 @@ import Card from "./Card"
 import Thumbnail from "./photos/thumbnail_template.jpg"
 import FoodieTN from "./photos/sushi_tn.jpg"
 import { Link } from 'react-router-dom';
-import Portrait from "./photos/purple_pic_tn.jpg"
+import Portrait from "./photos/blue_flower.jpg"
  
 function Work(props) {
         return (

@@ -1,4 +1,5 @@
 import React from "react"
+import BluePic from "./photos/blue_pic.jpg"
 import NovoSS from "./photos/mark_novo_ss.png"
 import AboutFigma from "./photos/portfolio_figma/about_figma.png"
 import WorkFigma from "./photos/portfolio_figma/work_figma.png"
@@ -8,6 +9,11 @@ function ProjMyWebsite(props) {
     return (
         <div className="proj-body">
             {/* <img src={Thumbnail} alt="a photo of me" className="project-photo" /> */}
+            {/* bio or work first?
+            intended to only display a few works bc employers are busy
+            dark background is easier on the eyes
+            monotone color scheme emphasizes photos */}
+            <img src={BluePic} alt="" className="proj-photo" />
             <h1 className="title1">Portfolio</h1>
             <p className="larticle">
                 This is a work in progress. To find a design job, I needed a portfolio, so I spent the summer of 2020 making this website. 

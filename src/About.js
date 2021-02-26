@@ -1,5 +1,5 @@
 import React from "react"
-import Portrait from "./photos/purple_pic.jpg"
+import Portrait from "./photos/blue_portrait.jpg"
 
 function About(props) {
     return (
@@ -14,7 +14,7 @@ function About(props) {
                 </h2>
                 <br /><br />
                 <p className="intro">
-                    I am currently a senior studying HCI at the University of Washington. I chose this career path because I enjoy doing creative work and interacting with others. I care about designing products that are original, impactful, and of course, usable. 
+                    I am currently a senior studying informatics with a focus in HCI at the University of Washington. I chose this career path because I enjoy doing creative work and interacting with others. I care about designing products that are original, impactful, and of course, usable. 
                 </p>
                 {/* <p className="intro">
                 <br />

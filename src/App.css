@@ -58,7 +58,8 @@ a:hover {
 nav {
   display: flex;
   justify-content: space-between;
-  /* font-size: 100%; */
+  /* font-size: 150%; */
+  font-weight: 400;
   width: 100%;
   padding-top: 1.25%;
   padding-bottom: 1.25%;
