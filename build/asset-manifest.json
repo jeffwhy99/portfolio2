@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c790c5d6.chunk.css",
+    "main.js": "/portfolio/static/js/main.26240210.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.26240210.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b449097c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b449097c.js.map",
+    "static/js/2.f0845e5b.chunk.js": "/portfolio/static/js/2.f0845e5b.chunk.js",
+    "static/js/2.f0845e5b.chunk.js.map": "/portfolio/static/js/2.f0845e5b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6e1ebc9e447528386400fec7e3e218a2.js": "/portfolio/precache-manifest.6e1ebc9e447528386400fec7e3e218a2.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.c790c5d6.chunk.css.map": "/portfolio/static/css/main.c790c5d6.chunk.css.map",
+    "static/js/2.f0845e5b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f0845e5b.chunk.js.LICENSE.txt",
+    "static/media/about_figma.png": "/portfolio/static/media/about_figma.06685698.png",
+    "static/media/account_ia.png": "/portfolio/static/media/account_ia.8883056e.png",
+    "static/media/blue_flower.jpg": "/portfolio/static/media/blue_flower.4acc4bb4.jpg",
+    "static/media/blue_pic.jpg": "/portfolio/static/media/blue_pic.296cf975.jpg",
+    "static/media/blue_portrait.jpg": "/portfolio/static/media/blue_portrait.6a88b515.jpg",
+    "static/media/features_known.png": "/portfolio/static/media/features_known.ac77b33d.png",
+    "static/media/foodie_card_sort.png": "/portfolio/static/media/foodie_card_sort.193f8e4b.png",
+    "static/media/foodie_figma.png": "/portfolio/static/media/foodie_figma.efb805bb.png",
+    "static/media/foodie_persona.jpg": "/portfolio/static/media/foodie_persona.376b73c4.jpg",
+    "static/media/hours_daily.png": "/portfolio/static/media/hours_daily.5fa42e1f.png",
+    "static/media/mark_novo_ss.png": "/portfolio/static/media/mark_novo_ss.14dbbea4.png",
+    "static/media/proj_figma.png": "/portfolio/static/media/proj_figma.3948fa6c.png",
+    "static/media/recipe_ia.png": "/portfolio/static/media/recipe_ia.7afb3b08.png",
+    "static/media/sushi.jpg": "/portfolio/static/media/sushi.637973f9.jpg",
+    "static/media/sushi_tn.jpg": "/portfolio/static/media/sushi_tn.bc08ff29.jpg",
+    "static/media/thumbnail_template.jpg": "/portfolio/static/media/thumbnail_template.14349c9b.jpg",
+    "static/media/work_figma.png": "/portfolio/static/media/work_figma.1d96f357.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b449097c.js",
+    "static/js/2.f0845e5b.chunk.js",
+    "static/css/main.c790c5d6.chunk.css",
+    "static/js/main.26240210.chunk.js"
+  ]
+}
